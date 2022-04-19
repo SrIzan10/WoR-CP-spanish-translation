@@ -1,0 +1,11 @@
+bin
+obj
+*.exe
+*.zip
+*.log
+Thumbs.db
+*.suo
+*.user
+*.scc
+*.vspscc
+*.vssscc
