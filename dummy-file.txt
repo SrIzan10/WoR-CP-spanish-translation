@@ -1,4 +1,4 @@
-//Controles
+//Controls
 Activado
 Desactivado
 Alto
@@ -9,15 +9,16 @@ Guardar
 Refrescar
 Predeterminados
 Montar
+Desmontar
 Editar
 Ver
 
-//Ventana principal
+//Main Window
 Buenos Días
 Buenas Tardes
 Buenas Noches
 
-//Pestañas
+//Tabs
 Rendimiento
 Periféricos
 Aplicaciones
@@ -25,25 +26,25 @@ Sobre
 Overlay
 Ajustes
 
-//Rendimiento
+//Performance
 Procesador
 Memoria
 Temperatura
 Lectura
 Escritura
 
-//Periféricos
+//Peripherals
 Esta pestaña ha sido desactivada.\nLa funcionalidad de GPIO sólo está disponible en la Raspberry Pi.
 Pines GPIO
 No hay ningún pin seleccionado.
 Controles GPIO
 Estado de los pines
 
-//Aplicaciones
+//Applications
 ¡Compatible con tu dispositivo!
 ¡Instala fácilmente aplicaciones ARM desde WoR-CP con un click!
 
-//Sobre
+//About
 Procesador
 Memoria
 Firmware
@@ -68,7 +69,7 @@ Enseñar icono de la barra de tareas
 Minimizar a la barra de tareas
 Aviso de temperatura
 
-//Ajustes
+//Settings
 No se puede leer config.txt
 Tu Raspberry Pi está corriendo a la velocidad de fábrica.
 Tu Raspberry Pi está overclockeada.
@@ -76,7 +77,7 @@ Tu Raspberry Pi está underclockeada.
 ¡Aviso! Tu overclock es muy alto, tu Raspberry Pi podría no encenderse.
 No se han encontrado problemas.
 Problemas encontrados.
-Partición de arranque
+La partición de arranque no está montada
 Por favor monta la partición de arranque\npara poder overclockear.
 Tu partición de arranque está montado y se puede acceder desde \n Disco
 Tu archivo config.txt se enseñará aquí cuando montes la partición de arranque\n
@@ -93,7 +94,7 @@ Splash
 Otro
 Documentación
 
-//Depurador
+//Debugger
 Tema
 Modo claro
 Transparencia
@@ -108,3 +109,5 @@ Logs
 Guardar logs al escritorio
 Experimental
 Overclockeo avanzado
+Al habilitar este ajuste aceptas que estás poniendo tu Raspberry Pi en peligro.\nProceda bajo su propio riesgo.
+Aviso
